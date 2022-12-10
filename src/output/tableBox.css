@@ -1,0 +1,26 @@
+/*
+Copyright (c) Walmart Inc.
+
+This source code is licensed under the Apache 2.0 license found in the
+LICENSE file in the root directory of this source tree.
+*/
+
+.json-key {
+  color: rgb(184, 61, 61);
+}
+.json-value {
+  color: rgba(15, 15, 150, 0.7);
+}
+.json-boolean {
+  color: rgba(15, 15, 150, 0.7);
+}
+.json-string {
+  color: #666600;
+}
+::selection {
+  background: #aa9090;
+}
+.hljs-number {
+  color: rgb(184, 61, 61);
+  font-weight: 400
+}
